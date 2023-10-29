@@ -4,7 +4,7 @@ The purpose of this repo is to help my classmates @ IIT Jammu to learn git.
 
 - Clone this repo `git clone https://github.com/sayyedfaixal/learning-at-iitjammu`
 - Create a new file locally in your machine
-- Create a new PR for
+- Create a new PR for merge
 
 ## Initial setup
 
