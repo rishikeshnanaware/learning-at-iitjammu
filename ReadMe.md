@@ -1,6 +1,6 @@
 # Hey there, Welcome to this repo
 
-The purpose of this repo is for helping my classmates @ IIT Jammu to learn git.
+The purpose of this repo is to helping my classmates @ IIT Jammu to learn git.
 
 - Clone this repo `git clone https://github.com/sayyedfaixal/learning-at-iitjammu`
 - Create a new file locally in your machine
